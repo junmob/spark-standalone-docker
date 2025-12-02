@@ -1,11 +1,11 @@
-.vscode/
+# .vscode/
 
-.venv/
-venv/
+# .venv/
+# venv/
 
-data/
+# data/
 
-*.ipynb_checkpoints
+# *.ipynb_checkpoints
 
-__pycache__/
+# __pycache__/
 
